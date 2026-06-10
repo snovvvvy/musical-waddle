@@ -15,5 +15,14 @@
                 }
             ]
         }
-    }
+    },
+
+    "BlacklistedUsers": {},
+    "Announcement": {
+        "text": "hi",
+        "expiretime": 1780945536.774,
+        "targets": "all"
+    },
+    "KillVape": false,
+    "rand": 0.6030493204045226
 }
