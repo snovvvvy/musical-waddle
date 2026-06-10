@@ -1,0 +1,19 @@
+{
+    "WhitelistedUsers": {
+        "hi": {
+            "hash": "32e4788d98341387d9118202b570593852a2b1331d12ec268d6c66834b43f35bc9f39db885012c3d388f6d49e1dd8a25cfb2c172165555d0a9c753815693aa21",
+            "attackable": false,
+            "level": 3,
+            "tags": [
+                {
+                    "text": "WL",
+                    "color": [
+                        0,
+                        255,
+                        0
+                    ]
+                }
+            ]
+        }
+    }
+}
