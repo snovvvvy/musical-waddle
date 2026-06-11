@@ -6,6 +6,21 @@
             "level": 3,
             "tags": [
                 {
+                    "text": "omg",
+                    "color": [
+                        255,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        "bozo": {
+            "hash": "2543583fa4d6974ae13572dbeb33cf0315f2ed21a293927638e1215b7cc519e3497b6c0bebe1069bea4996d74d28454edc3684dab2a80744cd5802cf493c803f",
+            "attackable": false,
+            "level": 2,
+            "tags": [
+                {
                     "text": "WL",
                     "color": [
                         0,
